@@ -1,0 +1,28 @@
+name: FANOS IMAGING
+favicon: null
+layout_spectrum: 0.7408928496297449
+typography_spectrum: 0.3539827854838222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36231516022235155
+  lightness: 0.4922586535103619
+  saturation: 0.9584982206579298
+  rhythmicContrast: 0.7363654696382582
+purpose: []
